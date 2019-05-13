@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 12.875" name="AccountingDB">
+  <DataContextMoniker Name="/AccountingDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="454f02bb-fc50-47d9-81b2-80d3af37d835" absoluteBounds="3.75, 8.625, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60940813-97f4-4ec6-a213-edd5e457d739" absoluteBounds="3.765, 9.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="943cb0a3-4510-4f7c-af7b-804311cf48bf" absoluteBounds="9.25, 8, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblStock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="675c8e32-9cdf-424a-94b9-dc30f5c92b6f" absoluteBounds="9.265, 8.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cead4910-9f96-4025-8a84-fed075155a96" absoluteBounds="0.75, 4.25, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblCity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97cbe50e-b3ca-40c3-bdd1-cbc4b696ae17" absoluteBounds="0.765, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1cb741b2-2b2e-4278-b714-3d2d0cc977f7" absoluteBounds="3.5, 3.375, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblCompany" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5f78542f-7619-40db-98ca-91d2becdc848" absoluteBounds="3.515, 3.835, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="edde0e65-4572-4f7e-b8e3-cfeb6625104a" absoluteBounds="6.5, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblEmployee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="adb3c248-fdd8-4d61-8ede-821cd5179706" absoluteBounds="6.515, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1aac9753-d446-42be-baeb-139a0c85dfa8" absoluteBounds="6.5, 8.25, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c816f491-bd78-4b18-9cc3-dea74f6c9136" absoluteBounds="6.515, 8.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94d82b90-e665-4c90-92dd-890cdeefef9d" absoluteBounds="9.25, 3.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblPurchasing" />
+      <nestedChildShapes>
+        <elementListCompartment Id="179d955f-b267-45e0-931a-9a401571cd1b" absoluteBounds="9.265, 4.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="880a8083-05d7-42be-ab42-d81987c5e714" absoluteBounds="9.25, 10.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblSalesDown" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8dc1eab4-477d-4b45-8976-223473c34876" absoluteBounds="9.265, 10.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73fbb92e-cdb5-4fe9-8b2c-755e6e62e8f4" absoluteBounds="6.25, 3.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblSalesUp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0351990d-ad62-4fdc-ab04-f498491bfb9b" absoluteBounds="6.265, 4.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4a60939b-2578-4607-8e3d-eafb443ae469" absoluteBounds="3.5, 11.25, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/AccountingDBDataContext/tblShipper" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87877ae2-205e-4c1f-b81d-d3c7f6559336" absoluteBounds="3.515, 11.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 4.94314697265625); (3.5 : 4.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblCity/tblCity_tblCompany" />
+      <nodes>
+        <classShapeMoniker Id="cead4910-9f96-4025-8a84-fed075155a96" />
+        <classShapeMoniker Id="1cb741b2-2b2e-4278-b714-3d2d0cc977f7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 9.01044840494792); (9.25 : 9.01044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblProduct/tblProduct_tblStock" />
+      <nodes>
+        <classShapeMoniker Id="1aac9753-d446-42be-baeb-139a0c85dfa8" />
+        <classShapeMoniker Id="943cb0a3-4510-4f7c-af7b-804311cf48bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 9.22199625651042); (6.26041666666667 : 9.22199625651042 : JumpStart); (6.42708333333333 : 9.22199625651042 : JumpEnd); (6.5 : 9.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblCategory/tblCategory_tblProduct" />
+      <nodes>
+        <classShapeMoniker Id="454f02bb-fc50-47d9-81b2-80d3af37d835" />
+        <classShapeMoniker Id="1aac9753-d446-42be-baeb-139a0c85dfa8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.19155110677083); (6.26041666666667 : 6.19155110677083 : JumpStart); (6.42708333333333 : 6.19155110677083 : JumpEnd); (9.25 : 6.19155110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblCompany/tblCompany_tblPurchasing" />
+      <nodes>
+        <classShapeMoniker Id="1cb741b2-2b2e-4278-b714-3d2d0cc977f7" />
+        <classShapeMoniker Id="94d82b90-e665-4c90-92dd-890cdeefef9d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 2.52089680989583); (8.40625 : 6.16029860677083); (9.25 : 6.16029860677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblEmployee/tblEmployee_tblPurchasing" />
+      <nodes>
+        <classShapeMoniker Id="edde0e65-4572-4f7e-b8e3-cfeb6625104a" />
+        <classShapeMoniker Id="94d82b90-e665-4c90-92dd-890cdeefef9d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.453125 : 8.25); (8.453125 : 6.22280360677083); (9.25 : 6.22280360677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblProduct/tblProduct_tblPurchasing" />
+      <nodes>
+        <classShapeMoniker Id="1aac9753-d446-42be-baeb-139a0c85dfa8" />
+        <classShapeMoniker Id="94d82b90-e665-4c90-92dd-890cdeefef9d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.5 : 10.2131982421875); (7.5 : 11.4815991210937); (9.25 : 11.4815991210937)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblProduct/tblProduct_tblSalesDown" />
+      <nodes>
+        <classShapeMoniker Id="1aac9753-d446-42be-baeb-139a0c85dfa8" />
+        <classShapeMoniker Id="880a8083-05d7-42be-ab42-d81987c5e714" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.56532148632813); (3.25 : 4.56532148632813); (3.25 : 3.125); (7.25 : 3.125); (7.25 : 3.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblCity/tblCity_tblSalesUp" />
+      <nodes>
+        <classShapeMoniker Id="cead4910-9f96-4025-8a84-fed075155a96" />
+        <classShapeMoniker Id="73fbb92e-cdb5-4fe9-8b2c-755e6e62e8f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.95274983723958); (6.25 : 4.95274983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblCompany/tblCompany_tblSalesUp" />
+      <nodes>
+        <classShapeMoniker Id="1cb741b2-2b2e-4278-b714-3d2d0cc977f7" />
+        <classShapeMoniker Id="73fbb92e-cdb5-4fe9-8b2c-755e6e62e8f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.8125 : 2.52089680989583); (7.8125 : 3.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblEmployee/tblEmployee_tblSalesUp" />
+      <nodes>
+        <classShapeMoniker Id="edde0e65-4572-4f7e-b8e3-cfeb6625104a" />
+        <classShapeMoniker Id="73fbb92e-cdb5-4fe9-8b2c-755e6e62e8f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.0589465332031); (6.34375 : 12.0589465332031); (6.34375 : 6.03049967447917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AccountingDBDataContext/tblShipper/tblShipper_tblSalesUp" />
+      <nodes>
+        <classShapeMoniker Id="4a60939b-2578-4607-8e3d-eafb443ae469" />
+        <classShapeMoniker Id="73fbb92e-cdb5-4fe9-8b2c-755e6e62e8f4" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
